@@ -1,5 +1,5 @@
 import './App.css';
-import Chart from './components/chart/Chart';
+import Chart from './components/Chart/Chart';
 import { array1, array2 } from './data/arrays';
 
 function App() {
